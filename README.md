@@ -67,7 +67,6 @@ If you're also learning ML and want to see how basic algorithms are applied to r
 This repo is a part of my journey into the world of ML 🌍
 I’ll keep adding more projects as I learn new stuff — it’s all about **getting your hands dirty and learning by doing** 🧠🛠️
 
-If you’re a beginner too, let’s connect and grow together 💬
 
-**Made with curiosity and coffee ☕ by [Ammar Yasser](https://www.linkedin.com/in/ammar-yasser-92a2622b9/)**
+
 
